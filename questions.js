@@ -106,7 +106,7 @@ let questions = [
   {  
     numb: 10,
     question: "Which of the following developed JavaScript language?",
-    answer: "Applet Class.",
+    answer: "Brendan Eich",
     options: [
       "James Gosling",
       "Bjarne Stroustroup",
